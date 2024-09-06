@@ -27,7 +27,7 @@ This is a simple REST API application built using Spring Boot. It uses `CrudRepo
 
 1. **Clone the Repository**
     ```bash
-    git clone https:https://github.com/prathitkulkarni/brooklyn-high-student-app.git
+    git clone https: https://github.com/prathitkulkarni/brooklyn-high-student-details-management.git
     ```
 
 2. **Navigate to the Project Directory**
